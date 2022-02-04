@@ -15,8 +15,7 @@
 |Gender|`"Male"`|          
 |Favorite color |`"Blue"`|
 |Favorite food |`"Noodle Soup"`|
- 
- - [X] Pineapple on pizza
+|Pineapple on pizza | ✓ |
 
 ### Hobbies
 
