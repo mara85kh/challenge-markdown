@@ -48,4 +48,4 @@ TL, DR
 
 I'm bad at entering room using an open door
 
-<< [previous](https://trello.com/c/ex5Q6Gsd/24-kevin-mayjp)  || MARA UM || [next](https://trello.com/c/2VwdXQ6b/20-matthiasjpg) >>
+<< [previous](https://github.com/Yashidao)  || MARA UM || [next](https://github.com/MatthiasUrgu/) >>
